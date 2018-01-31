@@ -4,7 +4,7 @@
     Import as project scheme via Preferences > Editor > Code Style > Manage...
 -->
 
-<code_scheme name="Penny">
+<code_scheme name="my-service">
     <JavaCodeStyleSettings>
         <option name="DO_NOT_WRAP_AFTER_SINGLE_ANNOTATION" value="true"/>
     </JavaCodeStyleSettings>
