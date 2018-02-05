@@ -13,14 +13,14 @@ plugins {
 
 defaultTasks 'clean', 'test'
 
-group = 'io.api'
+group = 'io'
 version = '0.1.0-SNAPSHOT'
 
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
 
-applicationName = 'wiser-github-stats'
-mainClassName = 'io.wiser.Service'
+applicationName = 'github-stats'
+mainClassName = 'io.Service'
 archivesBaseName = applicationName
 
 ext {

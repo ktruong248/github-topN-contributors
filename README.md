@@ -30,7 +30,7 @@ Command line: `$ ./gradlew clean test`
 
 ###Run Service
 
-Command line: `$ ./gradlew run` or `$ java -jar build/libs/wiser-github-stats-0.1.0-SNAPSHOT.jar`
+Command line: `$ ./gradlew run` or `$ java -jar build/libs/github-stats-0.1.0-SNAPSHOT.jar`
 
 Main class to run in IDE: `io.wiser.Service`
 
